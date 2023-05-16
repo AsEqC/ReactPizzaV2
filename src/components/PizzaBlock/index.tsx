@@ -1,7 +1,7 @@
 import React from "react";
 
 
-interface PizzaBlockType {
+export interface PizzaBlockType {
     title: string
     price: number
     imageUrl: string
